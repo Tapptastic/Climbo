@@ -1,0 +1,19 @@
+Home Page:
+    ☐ create nav
+    ☐ create stats for climbers
+    ☐ create climber object
+
+    
+Route Page:
+    ☐ create
+
+Reward Page:
+    ☐ create
+
+
+
+    BlueFin:
+        ☐ Url Links for manage access page when project is renamed (URL).
+        ☐ Adding permissions on manage access doesn't work.
+        ✔ Manage Access not setting the correct roles for accounts. @done(18-04-27 17:07)
+
